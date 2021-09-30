@@ -1,1 +1,1 @@
-# Clone-shopping-webstore
+Calculator design
